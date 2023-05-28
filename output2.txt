@@ -1,0 +1,16 @@
+3
+Phạm văn A
+dại số-3
+vật lí-5.5
+giải tích-7
+Phạm văn B
+ập trình c++-4.5
+toán rời rạc-3
+hệ cơ sở dữ liệu-7
+Phạm văn C
+ập trình web-6
+lập trình ứng dụng kĩ thuật-8
+lập trình nâng cao-9
+Số môn học có điểm dưới 5.5 của sinh viên Phạm văn A là : 1
+Số môn học có điểm dưới 5.5 của sinh viên Phạm văn B là : 2
+Số môn học có điểm dưới 5.5 của sinh viên Phạm văn C là : 0

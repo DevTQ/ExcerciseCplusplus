@@ -1,0 +1,7 @@
+Phạm văn A
+5 7 
+Phạm văn B
+8 9 
+
+Số môn học có điểm dưới 5.5 của sinh viên Phạm văn A là : 1
+Số môn học có điểm dưới 5.5 của sinh viên Phạm văn B là : 0
